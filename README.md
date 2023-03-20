@@ -2,6 +2,19 @@
 <h3 align="center">A Senior Software Engineer</h3>
 <br>
 
+<a href="https://www.instagram.com/kheang_sowat/">
+  <img align="left" alt="Sowat's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://www.facebook.com/valen.sowat">
+  <img align="left" alt="Sowat's Facebook" width="22px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />
+</a>
+<a href="https://www.linkedin.com/in/sowat-kheang-351635218/">
+  <img align="left" alt="Sowat's LinkedIN" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+</a>
+
+<br>
+<br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sowatkheang&show_icons=true&locale=en" alt="sowatkheang" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
