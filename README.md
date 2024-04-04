@@ -37,3 +37,11 @@
 <a href="https://www.linkedin.com/in/sowat-kheang-351635218/">
   <img align="left" alt="Sowat's LinkedIN" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
 </a>
+
+<br>
+
+<h3 align="left">CV</h3>
+<a href="https://tinyurl.com/4dtd42ry">
+    <img src="https://cdn-icons-png.flaticon.com/128/6186/6186195.png" width="40" height="40" />
+</a>
+
