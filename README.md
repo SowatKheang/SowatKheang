@@ -39,9 +39,9 @@
 </a>
 
 <br>
-
 <h3 align="left">CV</h3>
-<a href="https://tinyurl.com/37rn6f5m">
+
+<a href="https://shorturl.at/gluO3">
     <img src="https://cdn-icons-png.flaticon.com/128/6186/6186195.png" width="40" height="40" />
 </a>
 
