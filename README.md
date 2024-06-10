@@ -31,9 +31,6 @@
 <a href="https://www.instagram.com/kheang_sowat/">
   <img align="left" alt="Sowat's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://www.facebook.com/valen.sowat">
-  <img align="left" alt="Sowat's Facebook" width="22px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />
-</a>
 <a href="https://www.linkedin.com/in/sowat-kheang-351635218/">
   <img align="left" alt="Sowat's LinkedIN" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
 </a>
