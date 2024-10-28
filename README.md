@@ -38,7 +38,7 @@
 <br>
 <h3 align="left">CV</h3>
 
-<a href="https://tinyurl.com/5n73dh53">
+<a href="https://tinyurl.com/mryk882w">
     <img src="https://cdn-icons-png.flaticon.com/128/6186/6186195.png" width="40" height="40" />
 </a>
 
