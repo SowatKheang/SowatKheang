@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sowat</h1>
-<h3 align="center">A Senior Software Engineer</h3>
+<h3 align="center">CyberMACS Erasmus Mundus (2024-2026)</h3>
+<h3 align="center">A Former Senior Software Developer</h3>
 
 <br>
 
