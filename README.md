@@ -1,12 +1,52 @@
-<h1 align="center">Hi 👋, I'm Sowat</h1>
-<h3 align="center">CyberMACS Erasmus Mundus (2024-2026)</h3>
-<h3 align="center">A Former Senior Software Developer</h3>
+<div align="center">
 
+```
+ ██████╗ ██╗  ██╗███████╗ █████╗ ███╗   ██╗ ██████╗ 
+██╔═══██╗██║  ██║██╔════╝██╔══██╗████╗  ██║██╔════╝ 
+██║██╗██║███████║█████╗  ███████║██╔██╗ ██║██║  ███╗
+██║██║██║██╔══██║██╔══╝  ██╔══██║██║╚██╗██║██║   ██║
+╚█████╔╝██║  ██║███████╗██║  ██║██║ ╚████║╚██████╔╝
+ ╚════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ 
+```
+
+### `> whoami`
+**Kheang Sowat** — Red Teamer in Training | Former Senior Software Developer
+
+</div>
+
+---
+
+```
+┌──[sowat@kali]─[~/about]
+└──$ cat profile.txt
+```
+
+🎓 **CyberMACS Erasmus Mundus** (2024–2026) — Cybersecurity specialization  
+🔴 Aspiring **Red Teamer** | Offensive Security Enthusiast  
+💻 **Former Senior Software Developer** — 5+ years building full-stack apps  
+🧩 Now breaking what I used to build  
+
+---
+
+### `> cat /etc/arsenal`
+
+<details>
+<summary>🔴 Offensive Security & Red Teaming</summary>
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sowatkheang&show_icons=true&locale=en" alt="sowatkheang" /></p>
+| Category | Tools |
+|---|---|
+| **Recon** | Nmap, Amass, Subfinder, theHarvester |
+| **Exploitation** | Metasploit, Burp Suite, SQLMap |
+| **Post-Exploitation** | Mimikatz, BloodHound, Cobalt Strike |
+| **Web Hacking** | OWASP ZAP, Nikto, Gobuster, ffuf |
+| **CTF / Labs** | [HackTheBox](https://app.hackthebox.com/profile/2370070) |
 
-<h3 align="left">Languages and Tools:</h3>
+</details>
+
+<details>
+<summary>💻 Software Development (Previous Life)</summary>
+<br>
 
 <p align="left"> 
     <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
@@ -27,15 +67,44 @@
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 </p>
 
+</details>
 
-<h3 align="left">Where to find me</h3>
-<a href="https://www.instagram.com/kheang_sowat/">
-  <img align="left" alt="Sowat's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+---
+
+### `> cat stats.log`
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sowatkheang&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0000&icon_color=ff0000&text_color=c9d1d9" alt="sowatkheang" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sowatkheang&theme=radical&hide_border=true&background=0d1117&ring=ff0000&fire=ff0000&currStreakLabel=ff0000" alt="sowatkheang" />
+</p>
+
+---
+
+### `> cat /etc/targets/socials`
+
+<p align="left">
+<a href="https://app.hackthebox.com/profile/2370070" target="_blank">
+  <img src="https://img.shields.io/badge/-HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
 </a>
-<a href="https://www.linkedin.com/in/sowat-kheang-351635218/">
-  <img align="left" alt="Sowat's LinkedIN" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+<a href="https://www.linkedin.com/in/sowat-kheang-351635218/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<a href="https://www.instagram.com/kheang_sowat/" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+</p>
 
-<br>
+---
 
+<div align="center">
 
+```
+[✓] Connection established.
+[✓] Profile loaded.
+[~] Always learning. Always hacking.
+```
+
+</div>
