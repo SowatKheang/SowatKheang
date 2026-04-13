@@ -74,10 +74,6 @@
 ### `> cat stats.log`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sowatkheang&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0000&icon_color=ff0000&text_color=c9d1d9" alt="sowatkheang" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sowatkheang&theme=radical&hide_border=true&background=0d1117&ring=ff0000&fire=ff0000&currStreakLabel=ff0000" alt="sowatkheang" />
 </p>
 
