@@ -32,7 +32,7 @@
 ### `> cat /etc/arsenal`
 
 <details>
-<summary>🔴 Offensive Security & Red Teaming</summary>
+<summary>♾️ DevOps | 🔴 Offensive Security</summary>
 <br>
 
 | Category | Tools |
