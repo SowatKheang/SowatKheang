@@ -21,18 +21,16 @@
 └──$ cat profile.txt
 ```
 
-🎓 **CyberMACS Erasmus Mundus** (2024–2026) — Cybersecurity specialization  
-🔴 Aspiring **Red Teamer** | Offensive Security Enthusiast  
-♾️ **DevOps | DevSecOps**
+♾️ **DevOps | 🔴 Security **
+🎓 **CyberMACS Erasmus Mundus** (2024–2026) — Cybersecurity specialization   
 💻 **Former Senior Software Developer** — 5+ years building full-stack apps  
-🧩 Now breaking what I used to build  
 
 ---
 
 ### `> cat /etc/arsenal`
 
 <details>
-<summary>♾️ DevOps | 🔴 Offensive Security</summary>
+<summary>♾️ DevOps | 🔴 Security</summary>
 <br>
 
 | Category | Tools |
