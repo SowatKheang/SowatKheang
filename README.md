@@ -21,7 +21,7 @@
 └──$ cat profile.txt
 ```
 
-♾️ **DevOps | 🔴 Security **
+♾️ **DevOps | 🔴 Security**
 🎓 **CyberMACS Erasmus Mundus** (2024–2026) — Cybersecurity specialization   
 💻 **Former Senior Software Developer** — 5+ years building full-stack apps  
 
